@@ -1,0 +1,92 @@
+{
+  "format": "1",
+  "packages": [
+    {
+      "name": "ext",
+      "format": "1",
+      "version": "6.0.0.640",
+      "compatVersion": "6.0.0",
+      "creator": "Sencha",
+      "summary": "Ext JS",
+      "detailedDescription": "Sencha Ext JS JavaScript Framework",
+      "type": "framework",
+      "signatures": [
+        {
+          "name": "Sencha",
+          "uuid": "e93ebd09-85f5-46b6-bfc1-c7f06cf0b8a5",
+          "created": "2015-06-30T20:59:16Z",
+          "algorithm": "SHA1withRSA",
+          "nonce": "GkhHr4A0Q68\u003d",
+          "signature": "tLWGjeIjMJ7Qv9G0nlxwYN/p6GXQ7Xvz1HBMinzKMj7uG7L74Yd6QVLesK1XANQlFoMn+N3/swjSuoY/YFl/rQ1ed2Ph0jMurjgC9xRgheIP7OgXK9hIQDNdfsgANHBXPo7B/m3VE7bJ57E2lkEHEOBf4Z+T/MPgf3aWor8ut8n0H0YNjM0JVnlqzXSISwXVveW5jABO2qhFMSZ3P32xPuSTQ6Rb8XZzvkdjG8lQdB4Oxa+G4S8sCyUwc8oW03OxzsswlyNX6J0Q7k5WepAC9Og9NlPGnzpmENOpe+ofOyxBhbnqyDxo1hsQL6Nlp+xl8h/6xVNpoIxqN88TePECm1qU9qdNasT2wvBY0Os2eihW6Uc9VGzxPl39kUiSidzylsPXdrOyhJHeQbtka99FnWI7S2TR6WD4hsWHo4gTvneL/3oZAi8IivIwE7kCYnSsAh5bfbRkDdPdO5Xyp4gGd3Gak/PSGuSODAhV9v9xgOjI0Sg/YOSEANo5ZmGkja5cmiN6nHzY73Th6HjCJUm3sVe3TVwPegn6dlFJlpfzYkG0QgmCXALg6Qdrbt08YavJBdMKGxGxoaiV0EvpSwt51m8lqYFBwI+t0gh5DoYwQYDS/nWcaghnAn+GKhY5aG0zNo5i6XnsuEgQTFYNpsxrmR43CkzivdbpC47loOfV0Rk\u003d"
+        }
+      ],
+      "resources": [
+        "resources"
+      ]
+    },
+    {
+      "name": "ext",
+      "namespace": "Ext",
+      "format": "1",
+      "version": "6.0.2.437",
+      "compatVersion": "6.0.0",
+      "creator": "Sencha",
+      "summary": "Ext JS",
+      "detailedDescription": "Sencha Ext JS JavaScript Framework",
+      "type": "framework",
+      "signatures": [
+        {
+          "name": "Sencha",
+          "uuid": "2bed328e-5fb2-4975-a550-28e54b2c7c97",
+          "created": "2016-08-05T14:27:26Z",
+          "algorithm": "SHA1withRSA",
+          "nonce": "ZeGJPOzO2Rc\u003d",
+          "signature": "Inv8qnxWViD8fQew4Hxyk530+DezIh/L1wWYq9hSTwW1FoUnJyXqlfg3vVf78fU4UGzRYomDaz1T7U8sjbbRteV1RomRiZm/0QVGWKPjnmb9NvI6VFQYVSwXly978Dobm9sxxCB5iQOZc8IGnH23JDhNKnpXzutkoAS7RoeaF1FzkG/utArwB/GL7rTkUdnceX5EFMKN6NxpD2cOoSZoHvL7fzdSNQHCyIIsH1RSnB4TrwuMtg9bAeTKpEmYg3fAtW0XnGlGW1K1nmxGmigbX98KAh17C9fTfcHSZf22ObUq2knUNqps6mUZ2cvpLn0x4F6AJV6hK8oUBuEDZ/QcMg\u003d\u003d"
+        }
+      ]
+    },
+    {
+      "name": "xlp",
+      "namespace": "CML",
+      "format": "1",
+      "version": "1.0.0",
+      "creator": "CMLatitude",
+      "summary": "XLP",
+      "detailedDescription": "eXtended Layer Platform",
+      "type": "code",
+      "signatures": [
+        {
+          "name": "CMLatitude",
+          "uuid": "120239b8-3aba-4653-a828-dac60b6219cc",
+          "created": "2016-08-16T11:24:09Z",
+          "algorithm": "SHA1withRSA",
+          "nonce": "OLd858wdnCw\u003d",
+          "signature": "XZgx2UWQIaZCHsSTUrMz6zrcHR2/G4sZ/B6BeiJNPHIFIrz1b/Iz1xtQ/YazV28czWZBPlvECxPizafVNfktfL+b4+AFcn/VNoA0yjU8tqdfaEeAx5SgTxz9e9EvNtXj3CRMaHD+sY2Cn79jGoavT8gBZpwo8CA7MX2TGvDKXS+kkKuTzuF8s723z6XlCqJd4Rho+1GhPKPB2dbqZj8l6wsMixDFgOWTgrI5w5B8NG1aX3daHBlzKiw9ZA+v2ku8ntSmIbR9l3+SL66sUD6Sp7atjjOpHUxblzw37/fLqAsle9bRltXSzkkcdrwjv+++rxXfjzmPWtUZIRsKKrhCqg\u003d\u003d"
+        }
+      ]
+    },
+    {
+      "name": "xlp-views",
+      "namespace": "CML",
+      "format": "1",
+      "version": "1.0.0",
+      "creator": "CMLatitude",
+      "summary": "XLP Common Components",
+      "detailedDescription": "eXtended Layer Platform",
+      "type": "code",
+      "requires": [
+        "xlp"
+      ],
+      "signatures": [
+        {
+          "name": "CMLatitude",
+          "uuid": "120239b8-3aba-4653-a828-dac60b6219cc",
+          "created": "2016-08-16T11:24:32Z",
+          "algorithm": "SHA1withRSA",
+          "nonce": "etrzAMTV8dM\u003d",
+          "signature": "C/m8970pOHjGd3jGWF//laXseiGHXDNhV+V18/UGSgr/l0IF9RqmJoE1CJr2mDiOy3/2sny+ZCtfwhq6Ib1aYV0t9F1vqIoGu08M0J0ncaOBelN6G8EC/1XqXzJnhxEeLnxWhrCXx0a8jJi6KdjqJ01Ppvxy9u6cOqqPHacn1FCLpcd17Z5YQFs7gn+ArnXE4psDjfqdosfEzR1YSEq29MiWNxQT28k0tcKxLw03Du3dV+WIYqHR5PS5HGc16Fs5N/huckKdYcvLtkUjNUH/mXTOacaFdLTTKiY6w4Z2GaAK4YaU/60T6Sabw3kDwkrBsy1PtyjTltxU54r4RElBoA\u003d\u003d"
+        }
+      ]
+    }
+  ]
+}

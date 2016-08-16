@@ -1,0 +1,28 @@
+{
+  "format": "1",
+  "packages": [
+    {
+      "name": "xlp-views",
+      "namespace": "CML",
+      "format": "1",
+      "version": "1.0.0",
+      "creator": "CMLatitude",
+      "summary": "XLP Common Components",
+      "detailedDescription": "eXtended Layer Platform",
+      "type": "code",
+      "requires": [
+        "xlp"
+      ],
+      "signatures": [
+        {
+          "name": "CMLatitude",
+          "uuid": "120239b8-3aba-4653-a828-dac60b6219cc",
+          "created": "2016-08-16T11:24:32Z",
+          "algorithm": "SHA1withRSA",
+          "nonce": "etrzAMTV8dM\u003d",
+          "signature": "C/m8970pOHjGd3jGWF//laXseiGHXDNhV+V18/UGSgr/l0IF9RqmJoE1CJr2mDiOy3/2sny+ZCtfwhq6Ib1aYV0t9F1vqIoGu08M0J0ncaOBelN6G8EC/1XqXzJnhxEeLnxWhrCXx0a8jJi6KdjqJ01Ppvxy9u6cOqqPHacn1FCLpcd17Z5YQFs7gn+ArnXE4psDjfqdosfEzR1YSEq29MiWNxQT28k0tcKxLw03Du3dV+WIYqHR5PS5HGc16Fs5N/huckKdYcvLtkUjNUH/mXTOacaFdLTTKiY6w4Z2GaAK4YaU/60T6Sabw3kDwkrBsy1PtyjTltxU54r4RElBoA\u003d\u003d"
+        }
+      ]
+    }
+  ]
+}
