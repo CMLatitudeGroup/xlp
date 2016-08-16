@@ -58,10 +58,10 @@
         {
           "name": "CMLatitude",
           "uuid": "120239b8-3aba-4653-a828-dac60b6219cc",
-          "created": "2016-08-16T13:37:08Z",
+          "created": "2016-08-16T13:49:08Z",
           "algorithm": "SHA1withRSA",
-          "nonce": "dmzeUeliWIQ\u003d",
-          "signature": "oPfjDAOG9TbWpqlXRXpY8KtoJ0KZPLSxmSRhc2Bp3JYcqhgF/H4/9tbHuKOlgAvEwq9Sje+zpxw71nMa8uB34qUZ4Xmg70+sswVaV+bm+KGJCpa0Nos56NaCE6INGdFBdz9Tm21DjKzMuL7vjWcNl9sDN87JXMNFcIU6x1Nbqh5RfWu+0e1b3eKK9bUbKAwGmI41tQFyqrj5NcwFkFuQ2JHB7SDBVc8letCuWy4z4FM916J0PZFcqWltpLS4DuV27tdNC4ms3wC1M+815CEoGxVDheroovP/+URKBYFeYGYp85q0ZxVX/hadKrkKPiPkgrsCE0w55A23sxHkBx+oTw\u003d\u003d"
+          "nonce": "xIHGJD+1zuo\u003d",
+          "signature": "h0byhTPLEUPGrutYdY+U0qSnepQddeI1YN8CiS1oGUd+XbJHAu6JYvticaOiRxm83wCfkN7thl74BYJITbYfGtTFn29aRRd7QsrM84p/qZRwU7OvAlELrOlfYKfRqWlOmTUh4o0tNXZd65AgNvRBt5crK6boeaH8swGk4Q283BJLi8I1u/cdRS3EqbnBHy+zF3SoRmq6tlyTNTiwnHX/8444dcc4L5HPizOghgFYk5bB+GogLUruOASyq1Df1uDbypQm6jD9KgjpWj0aqfm34FP9LkuaZceUjeD93nAM1vLjAcABsSMzvf5EvC0zaY4864TOjS0EDkowS0wavpgxMg\u003d\u003d"
         }
       ]
     },
@@ -81,10 +81,10 @@
         {
           "name": "CMLatitude",
           "uuid": "120239b8-3aba-4653-a828-dac60b6219cc",
-          "created": "2016-08-16T13:37:54Z",
+          "created": "2016-08-16T13:49:37Z",
           "algorithm": "SHA1withRSA",
-          "nonce": "PZoXSOeG37s\u003d",
-          "signature": "SaHBDtPH5dsDLTtgd+0bmeG9IQYKOJ3/SA7iZO3BDXTgm7LIG4wYZGrfRHQ2qw+SKF9+6hE1cPykgOs7bYPP5D3hwgAUICXkeoTqRI33ER/OujQ//M2bYW43bqnnlX4QC+CwzPjX4y6WI+HAYEs661KtCrqnJzVR6H/r9OYXI7FrVDu2AZbA+92pmg7rli0XG2LSLDOoDA4arj2Cj2LllgAm86bbt5F3uGJMXcQ6ZOHQujMoD8hik5BDKU+GMrouI5n6pqkt1AmgD/Tbu6iUzhTu9T/GNFLvyPrwvWVc1vrnMqEYVkj5s/aT8eg18gg+Lvs0MJkTJhLOhNaAUcFW7w\u003d\u003d"
+          "nonce": "mtz3h4nRxQ4\u003d",
+          "signature": "bqsCzd5It/YqmP4JjnbS4OMJym7RkUWO95Ps0fFcg0WFQHQw835SBrylX3+s7B6WYiDs3A705hFr89sszxjJFrC1KV1CR/zlrGMH5im4zVulxoOu7+OmIOWzR+F+GHw1NLptKii6CjEUCfI2Jy7d2WkSuA4iKV+KW5j94vgvVutFU0+dma1aZ+0vx+mAvQ6sS9MXQ5MxXEhBcMkPgFXP443rK3OVvcJ6JF8joUzwUcEkNeHCwb61vjvDc9uzrxoL7xWruDIpeFnHcEl0QQDxzBb3ceYmjCl4LtGEEmorLpBhjQY9zg5IKwWB4x8tPdLLfxkguUc23tS4tvxnukWoAA\u003d\u003d"
         }
       ]
     }
