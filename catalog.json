@@ -58,10 +58,10 @@
         {
           "name": "CMLatitude",
           "uuid": "120239b8-3aba-4653-a828-dac60b6219cc",
-          "created": "2016-08-16T12:09:02Z",
+          "created": "2016-08-16T13:37:08Z",
           "algorithm": "SHA1withRSA",
-          "nonce": "qoubaYcSxjU\u003d",
-          "signature": "SlWfao7ru6w+hVTTr8EenksTl8fh2PCqzm7fOW3PMwh/AMVFjTH4ekzwKg7zVWv4oZPR7jaEptSZjl3k35Sae2HPGprSAbUxdnF8dUuWp0Fhz441CKRW3HS090BVlylXzxxS646Kg5F7BiDYpClniLHAhF5Y0EXj7fBjIHvJyKauFNcz0hJ9lYA2zmClul6GkGjibIPTgdW2FWOBFx2SR/Rt7wDuvUyN26DbbcUppbAQazfAODp3d6Hxlw1HLxBKVvTbcoyMFTkvtNaybprg5s+DuCkN8cgAE+1COXLpvvflNfWbRCc/vQQRUO0PMi1REkSqLpCk+QBQRF57Bmabgw\u003d\u003d"
+          "nonce": "dmzeUeliWIQ\u003d",
+          "signature": "oPfjDAOG9TbWpqlXRXpY8KtoJ0KZPLSxmSRhc2Bp3JYcqhgF/H4/9tbHuKOlgAvEwq9Sje+zpxw71nMa8uB34qUZ4Xmg70+sswVaV+bm+KGJCpa0Nos56NaCE6INGdFBdz9Tm21DjKzMuL7vjWcNl9sDN87JXMNFcIU6x1Nbqh5RfWu+0e1b3eKK9bUbKAwGmI41tQFyqrj5NcwFkFuQ2JHB7SDBVc8letCuWy4z4FM916J0PZFcqWltpLS4DuV27tdNC4ms3wC1M+815CEoGxVDheroovP/+URKBYFeYGYp85q0ZxVX/hadKrkKPiPkgrsCE0w55A23sxHkBx+oTw\u003d\u003d"
         }
       ]
     },
@@ -81,10 +81,10 @@
         {
           "name": "CMLatitude",
           "uuid": "120239b8-3aba-4653-a828-dac60b6219cc",
-          "created": "2016-08-16T12:09:24Z",
+          "created": "2016-08-16T13:37:54Z",
           "algorithm": "SHA1withRSA",
-          "nonce": "JusbMy3/AKo\u003d",
-          "signature": "uVRhQ2t7GhVt/6Gyb5fKNZz3pZoVxUeVh4cQ0bt6WN6W3DjNunVQccvMRfINEmBCMcK/UcPUY/3Ah+iwjRzhyXevvQu1JyTlIMVH5Upvitw+5QNHYOC0B+VHWphGmjeC0ttNpFoGqhIFcasyfOuAmQ6RT2pDvy7XRDOy8qjmp3O6vRWrE+ddlumAre+/vB0YBWPvoLJAEDL7VCfvo4G5Y5cHj+n8111g34cRDwMU/XvL9ItbORE/q3CxSUBdyzXgXkcaO1Nis6mDSZ0PWp21/oJ4UzpbCeiZBd0l3H9G+z80BzhnK8QbEDXB719HZdEDb27AL7Ddb1GlpBT6bPb2HA\u003d\u003d"
+          "nonce": "PZoXSOeG37s\u003d",
+          "signature": "SaHBDtPH5dsDLTtgd+0bmeG9IQYKOJ3/SA7iZO3BDXTgm7LIG4wYZGrfRHQ2qw+SKF9+6hE1cPykgOs7bYPP5D3hwgAUICXkeoTqRI33ER/OujQ//M2bYW43bqnnlX4QC+CwzPjX4y6WI+HAYEs661KtCrqnJzVR6H/r9OYXI7FrVDu2AZbA+92pmg7rli0XG2LSLDOoDA4arj2Cj2LllgAm86bbt5F3uGJMXcQ6ZOHQujMoD8hik5BDKU+GMrouI5n6pqkt1AmgD/Tbu6iUzhTu9T/GNFLvyPrwvWVc1vrnMqEYVkj5s/aT8eg18gg+Lvs0MJkTJhLOhNaAUcFW7w\u003d\u003d"
         }
       ]
     }
