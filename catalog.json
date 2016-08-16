@@ -58,10 +58,10 @@
         {
           "name": "CMLatitude",
           "uuid": "120239b8-3aba-4653-a828-dac60b6219cc",
-          "created": "2016-08-16T11:41:26Z",
+          "created": "2016-08-16T12:09:02Z",
           "algorithm": "SHA1withRSA",
-          "nonce": "IUne8OWpcZE\u003d",
-          "signature": "IWC67ICFxF209aJyHHmG/T0s/lo447JYseFhQMpKwVckIc1o6JTVn0akHazdHxz3K+r53RGhtCmJKIbYQxFBsXeLqsDqeYoUUIYgyuuxLg2kNH9r7UJZj5ogfTguQ43DE+Mi0JhgS9vkJQgOIw1qBU72JidtfsSFoOd4DIHczX8BEJjjL0sUoXm8TqFaxcwh/b5JZHTlMOQOQ4I7PnKuoOEMYOrwXxga3iIIoD4h5FwFRWoqw3afhztJc1TWWF12TriNgBAfLjFALEXvukvTDabpSIUFxdq601Pg1UAxAgV9iTqk+nhJEApk4R8uQijfXbWrialHoMXAP3dSpcvWnA\u003d\u003d"
+          "nonce": "qoubaYcSxjU\u003d",
+          "signature": "SlWfao7ru6w+hVTTr8EenksTl8fh2PCqzm7fOW3PMwh/AMVFjTH4ekzwKg7zVWv4oZPR7jaEptSZjl3k35Sae2HPGprSAbUxdnF8dUuWp0Fhz441CKRW3HS090BVlylXzxxS646Kg5F7BiDYpClniLHAhF5Y0EXj7fBjIHvJyKauFNcz0hJ9lYA2zmClul6GkGjibIPTgdW2FWOBFx2SR/Rt7wDuvUyN26DbbcUppbAQazfAODp3d6Hxlw1HLxBKVvTbcoyMFTkvtNaybprg5s+DuCkN8cgAE+1COXLpvvflNfWbRCc/vQQRUO0PMi1REkSqLpCk+QBQRF57Bmabgw\u003d\u003d"
         }
       ]
     },
@@ -81,10 +81,10 @@
         {
           "name": "CMLatitude",
           "uuid": "120239b8-3aba-4653-a828-dac60b6219cc",
-          "created": "2016-08-16T11:41:49Z",
+          "created": "2016-08-16T12:09:24Z",
           "algorithm": "SHA1withRSA",
-          "nonce": "o/Q1FJMQ9Z8\u003d",
-          "signature": "YWqOU5q2tIHw8pdJjEa33/16oILLHZSYNeCLSqcnjNUU3toIKDRVCmHb1rucExJbiJliZ5plqvUIjjGEcct/ID80rjf19vzzMY9tPOU2crtwFjQozU5O+lA+WZbwtTLBS44S41Y02AQ4lGsTZcUIpm2s5o1ROuWiqoqn8Lrhf5eamQfpBb1DhHA7HB8OsVTn6SkWE1ahuZlH4PYf8b0ZxDpB1EZD3ka0NDvLUN5dEndWQXc1SFWIDy5mn2b3ADUJkFmN0cYStDJy2wG/80zZ4xj1ZwszZS7NkKG1qli87Qwqkc2JflgMg5DI7WrABtsTwGwSCpZ0G3TdNnSE1oIUQQ\u003d\u003d"
+          "nonce": "JusbMy3/AKo\u003d",
+          "signature": "uVRhQ2t7GhVt/6Gyb5fKNZz3pZoVxUeVh4cQ0bt6WN6W3DjNunVQccvMRfINEmBCMcK/UcPUY/3Ah+iwjRzhyXevvQu1JyTlIMVH5Upvitw+5QNHYOC0B+VHWphGmjeC0ttNpFoGqhIFcasyfOuAmQ6RT2pDvy7XRDOy8qjmp3O6vRWrE+ddlumAre+/vB0YBWPvoLJAEDL7VCfvo4G5Y5cHj+n8111g34cRDwMU/XvL9ItbORE/q3CxSUBdyzXgXkcaO1Nis6mDSZ0PWp21/oJ4UzpbCeiZBd0l3H9G+z80BzhnK8QbEDXB719HZdEDb27AL7Ddb1GlpBT6bPb2HA\u003d\u003d"
         }
       ]
     }
