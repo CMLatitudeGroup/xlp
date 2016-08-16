@@ -58,10 +58,10 @@
         {
           "name": "CMLatitude",
           "uuid": "120239b8-3aba-4653-a828-dac60b6219cc",
-          "created": "2016-08-16T13:49:08Z",
+          "created": "2016-08-16T14:16:31Z",
           "algorithm": "SHA1withRSA",
-          "nonce": "xIHGJD+1zuo\u003d",
-          "signature": "h0byhTPLEUPGrutYdY+U0qSnepQddeI1YN8CiS1oGUd+XbJHAu6JYvticaOiRxm83wCfkN7thl74BYJITbYfGtTFn29aRRd7QsrM84p/qZRwU7OvAlELrOlfYKfRqWlOmTUh4o0tNXZd65AgNvRBt5crK6boeaH8swGk4Q283BJLi8I1u/cdRS3EqbnBHy+zF3SoRmq6tlyTNTiwnHX/8444dcc4L5HPizOghgFYk5bB+GogLUruOASyq1Df1uDbypQm6jD9KgjpWj0aqfm34FP9LkuaZceUjeD93nAM1vLjAcABsSMzvf5EvC0zaY4864TOjS0EDkowS0wavpgxMg\u003d\u003d"
+          "nonce": "dck3zF5b7C8\u003d",
+          "signature": "NNLEzxetVXMuynHBJTdA1uURyvVRG6ol0Mdbq4n3JRFwg94yxZ9Q1vgrw/q/Z5vlVIAAeq6ZxFaOngKJgKKKy1NfUA+8xaUbKLwU+rZwbT/vuvYD3nzDNWQQT9fLWi7CXPABtUGn82FV+RrVcOQP1C7uhPtfqKS3MOzis8UsulqRyTyNkGgtFhFh211QmYvV8jJLTyXM8qstvgUyY3cbRI+TdAdj2klQRNoiNpFIi21XZM/gw+h9FQyJIEn44QUkLrZEHMVyTE02mWhtHX4JKPesK1MNqIHxKiU/UlUty6tQp04cjYaWnrVbkd+w5UmNTt0q94nSHUOmHBrngjKZ3w\u003d\u003d"
         }
       ]
     },
@@ -81,10 +81,10 @@
         {
           "name": "CMLatitude",
           "uuid": "120239b8-3aba-4653-a828-dac60b6219cc",
-          "created": "2016-08-16T13:49:37Z",
+          "created": "2016-08-16T14:16:54Z",
           "algorithm": "SHA1withRSA",
-          "nonce": "mtz3h4nRxQ4\u003d",
-          "signature": "bqsCzd5It/YqmP4JjnbS4OMJym7RkUWO95Ps0fFcg0WFQHQw835SBrylX3+s7B6WYiDs3A705hFr89sszxjJFrC1KV1CR/zlrGMH5im4zVulxoOu7+OmIOWzR+F+GHw1NLptKii6CjEUCfI2Jy7d2WkSuA4iKV+KW5j94vgvVutFU0+dma1aZ+0vx+mAvQ6sS9MXQ5MxXEhBcMkPgFXP443rK3OVvcJ6JF8joUzwUcEkNeHCwb61vjvDc9uzrxoL7xWruDIpeFnHcEl0QQDxzBb3ceYmjCl4LtGEEmorLpBhjQY9zg5IKwWB4x8tPdLLfxkguUc23tS4tvxnukWoAA\u003d\u003d"
+          "nonce": "UPjf1J7/7rI\u003d",
+          "signature": "Yex+bfRVxnetPLX1uIko+kPI/34z2TBMGhZWaGJVrxFP6XmiydYqVxAEC/4fOqgIUf3lHwYG6xd9NX0pB+hn2F9GEPTKYI6sTxIlphWfJ6ExhgxLe0FbzCCKPaRanz6gU7Pe48NPXMKnpLhbMNAAxFR2p6AvN8KLyGgS+crNAX5rKKRnvmybHdZ+f6oveLCgTYg69AfxffHMR0KWGpOe4Sp6a2MiDraFhNBkMsm6JMaNNMZLD+Ro+4snWAzF4M2nXfRlC5HVeAevm0kfmJO6p+4Ybhqf4sBl1MHUUrQeGmzP4M/gppnskc8l+Si3TgzAMdCzFpmDWEotaCoiE6XevQ\u003d\u003d"
         }
       ]
     }
