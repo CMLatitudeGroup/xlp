@@ -58,10 +58,10 @@
         {
           "name": "CMLatitude",
           "uuid": "120239b8-3aba-4653-a828-dac60b6219cc",
-          "created": "2016-08-17T08:34:46Z",
+          "created": "2016-08-18T13:55:43Z",
           "algorithm": "SHA1withRSA",
-          "nonce": "4An/IW7Fcsc\u003d",
-          "signature": "E0HZW1F+K2OVwKcrH6qs8jI7wkjF+FXhU9tMwWYa023nw8B7BLCgcNCalgfi2kPkFq1vCLaNi+AnCcpP5zezGTLRL6dQWz9Mn06e3aWcU6nSQ773KQL8ropULf1hkDzqZ6injnG+Z3c0RChu62TLYnk99t5deOwbq8dt9nvfc8lEMixoRlyc+JryKAoKBp5Twhgtf/ec9+ccmHoT2iXAiohpXMtqiKtDhIubuR6V6EQi7M3hLkw1v/RnN0IKow6cdgWOQ2w3BHQH6aM9clMLIwX+4Obsjk+rfmbQAavFI3LHscYbOQehZov7hZtNqS/m0KcghrgWDwb5FIioAmJBYg\u003d\u003d"
+          "nonce": "O1JVRMlQhPM\u003d",
+          "signature": "YDrfAx7DFx+EIXpuh73joh4cMeODj+CmA6kWtV3QfR9w6FRmSkh5dgafGOg7mH4uYVOAhrszs1pWV9dh7B66jrco3+EhB2nEsU1DWRi8bW3INrcs+WhF0zLkmaI7J5zLPWb41byXC3A0sX9x88985hdC8t5l4bpIuUVi6kSww1ts0ZLGRaLHCW16HhwpEEDl7on4t+TANC0ZJrz7+4S/P0vA3SnZc6aoYdYswf9+K4SEF/Siq4XgQhIwmhqp1J40+0gsBm1a5qu28RVhxikHvIK6uC1lIijzfm3zFoDj6Ic2ZIChb0sImaqIL0ANtf0HL3dp54dmkJ0Av+v2FXovMA\u003d\u003d"
         }
       ]
     },
@@ -81,10 +81,10 @@
         {
           "name": "CMLatitude",
           "uuid": "120239b8-3aba-4653-a828-dac60b6219cc",
-          "created": "2016-08-17T08:35:12Z",
+          "created": "2016-08-18T13:56:10Z",
           "algorithm": "SHA1withRSA",
-          "nonce": "VV4/j9TbZLI\u003d",
-          "signature": "jMF38X/vxttOFsUqW8S1uHO+SPiLZ1wHXpElPzWjrWZTFHGK3ttXwLAw7tWe4Tj2Fcy/ZIj2NIpRJR8bQrxC4ZYRTMFRUllTh3lVKnay9KfFwFaQpOlRUc9YeakF3c8dS4KzVnhilV5CL/vMRYhxMuRv/eyyxfg3sc+M8/jYN6MCnJDGdKdWobEHbMy/8iJQCwWKVssVs7yUF04nKXHjqWDMW+RoCoW9u6tNQZMICpqPqpdhR7MMksw9/B2O6uKHuR1Wu2Uk52qOuflFOqiaIDX3XAOu7QHwQEWdAm7a3chABll1VtBh5pAZYztI1bw+OprpYdTEL1e2Hi9RTonfDw\u003d\u003d"
+          "nonce": "qjMty28LgjI\u003d",
+          "signature": "zi9pxo85TlFQZ/ndRly8CG+SD4QvFaT8rRGz4wmW8QzRs14zBVn3IKWXW3Z7i1l75wyLp7VQYpTyvxvoO1UytQXT8r0IZ+2E+++li0szaZONLJ+xqNDVGY4pQoEt/qiQhDu6a35zsfMIDjM5UMCW4qZI2n8/9oU+l/DmGkFdQ5KFpALh591ZotLB1FrAv7pcHlsrK5qrSyr6a/0jqZi8t8VvfUARwUxiXCzCCrG41b/3xoIeEOJbfRVru/XkLYnF7R8TNO73lj6qXA7TJqDaHbt19Gvrz08zssd/pF+jtxVmJFUetiVCMGDCXCxz756ictiKp7DtKVwLBWlYs6dX3A\u003d\u003d"
         }
       ]
     }
