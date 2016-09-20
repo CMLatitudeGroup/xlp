@@ -58,10 +58,10 @@
         {
           "name": "CMLatitude",
           "uuid": "120239b8-3aba-4653-a828-dac60b6219cc",
-          "created": "2016-09-19T14:03:59Z",
+          "created": "2016-09-20T13:22:06Z",
           "algorithm": "SHA1withRSA",
-          "nonce": "Nz9Ou4FhsN8\u003d",
-          "signature": "TDRLh7icK3eA6gOk4JBucDIRrPvD/tKQN0Ms9iesBQU7oqAyxXB+bT0Fe4Os7kxXq6lkAATuy2XV+pDUwaDr2pwAfzjJXDtvpGvDTEn3kJIrIeNKLeOsGawPWK0Mtih2kfIwqRGNXAKof+0R2PUAL30VYiE/45iZwYrbDfX4m389lB+XTx8VYgZpkjrrazhkgOmHwxXC2eoonHqeQVe2IaI1doDrD+MnGtIUEhTb1Y151q0wW83UfuYEErAfpJSMa53XmoZ2dTlQpy/ZRGJxESWNN0UmRhVxoSG6hKPw4a2lt7wFB6gcQLJKYw6Hv/Mp8lJ51yDcT9/ngCnSMaYXAA\u003d\u003d"
+          "nonce": "NYW+pErvqV0\u003d",
+          "signature": "ZLNcLEz7+/caffBgfjh0fRTdQlzTt4Kz8QoJ2vmEeqm7oHKdohQcIyNitapHNHtEd01NYoFViQkmT7ToXvHvv5jockmMs8TodTblFvED/1PwNw0N1+uKYo83INa6lRdJQ5fzPrJlcIogS+O1TcsmILTjQcJxHiAEyJ3JCPh8IYN42/2ov6ZNaBvo3ezNscOMNpU9iIDKY26c6pFnu6EMbIwD8+Nj7M/m7XXr9mjkGqLOUP3cgNVICGNK04UNVJB50kbgaqRxcbI/6vpYCa1VURO7AUivz+G7ep1p1rE1kUN2Y7bMHruD4MvrIlsuCl/VcY28dZZJ1ylJI0xrmAGVqg\u003d\u003d"
         }
       ]
     },
@@ -81,10 +81,10 @@
         {
           "name": "CMLatitude",
           "uuid": "120239b8-3aba-4653-a828-dac60b6219cc",
-          "created": "2016-09-19T14:04:25Z",
+          "created": "2016-09-20T13:22:32Z",
           "algorithm": "SHA1withRSA",
-          "nonce": "cyn8X2up5KM\u003d",
-          "signature": "df5/GymZyVPC+sZqiKIIP6NPFPWUdr9kgHLDGUMj70XyHSLviY04QJLEYwHSN7vJ5QI0EXYaP6q2e4k0HIvTJDbPh7mR2NWFgY1BzxnpMvGOegrWqUjEObNnHGf7f4eoYjd/d6MT8B93s5TmWW4y9A1SRhW48H/gA6/fSwyyVO0YFeKcO7oWd6BdNoDoMHNq9qcPzbgs2NCNz0JAXy8mgoBWFuWXK8hXCIEHe8uBoo1LrUlVUIdr3V/c+3XBJDH1zLyMVUXvervHRT5Z9hmUT4SSNSKQTVsGINmsq19ieLZ1HBzc3G3czKmJkElzrmlMfd6yK8AGJr5QG+mmomf9eQ\u003d\u003d"
+          "nonce": "CA+gglyuHy4\u003d",
+          "signature": "XDaloyeWFBJh60OXYXCJ7fpMtCgqpTD/kxi/frXt0yDWGcwnLOiSnOsl91Di8ntp+YkZKsGhA60YPGDZQWZFAXfFIezN/4ocylNxIEPOMmB+kNtNtjVw0jdRpUAnJeYwBDsUciZ6a2ggiT3oCxyEbgvL00gSjb5J4fi9zfkQDZdCnMmvhF1mM8dTy1rgdJyOHZlCsukPii4tIynXxoZ3S3VJepl4KTivyLpmW46IWijxmfu7CsuYhW1gYax3Ss3XMFuoPg2UhVOH/hM13C6RF65l7CkTcoGmiS0D7v70S1MNzI9PCGTTM43ykjKNl/EpAAVoprifVGXvZnF4wcFo0g\u003d\u003d"
         }
       ]
     }
