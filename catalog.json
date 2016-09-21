@@ -58,10 +58,10 @@
         {
           "name": "CMLatitude",
           "uuid": "120239b8-3aba-4653-a828-dac60b6219cc",
-          "created": "2016-09-21T11:13:02Z",
+          "created": "2016-09-21T12:48:57Z",
           "algorithm": "SHA1withRSA",
-          "nonce": "mMaxcHZTjcE\u003d",
-          "signature": "dJFtgDWKbEfZXoCquRoPOl7qrRcIhhWXOe+IQSrwDybXljOjBpEoqkxH96Wr24b+27kHLj30xHmgO+f1caQoaWFjAzFuI6m27RXTpuKlIcFWvXezjSxLDJbWZN/MeFtoHUik94RKPEPX8KD+e/OTThy4qZVJVPiHQ4O2AzlygimjhOfeLLQhU+/dkKwivDNtm8fze+cKkMMTmgVAA7OP91UfNPNdaUuKQunFqukyE6imZcghjtRe3RI+aZpdrifbKsX1cQJ8wSIvuUvUnmk29ruTog+Jne4BScGJ4PJKa6AOf+ZlFpXw7amqOLMBOWOKG7JOP0Qk4hj6A1FJqFmopA\u003d\u003d"
+          "nonce": "lyJRczKMkTQ\u003d",
+          "signature": "t9IabiKRHZnWp58d3dB/vlCdViNeuU78/yLI0jHZikPlzSRwurnz2XwMoLFBm3hU4J6Sh13Vhv63wvJgZwfVJ59GQJincbMNhWJCE0ZICLbWW/y3UUhvajwOM0CWwlOuikoroBD3Y54wyJvCxJ0AjSTFfkW0Or6dYhqKegjXg+/uyF/8RD8soAJoR3j5mcLCd+iYL6YO5VW1HcSe5CI/MW8kXk56VqOxd3ZBT+duz6nW6uxEb8KHR+k3w1ZV/5QouLCNmCXw/XpSmMWGhcWBr6Vgfg/9i550kd9C7gmH0JbOD8EDLeNDwXmUxwqycdASyL64B+LNvZHn/xNzl3DqKw\u003d\u003d"
         }
       ]
     },
@@ -81,10 +81,10 @@
         {
           "name": "CMLatitude",
           "uuid": "120239b8-3aba-4653-a828-dac60b6219cc",
-          "created": "2016-09-21T11:13:28Z",
+          "created": "2016-09-21T12:49:22Z",
           "algorithm": "SHA1withRSA",
-          "nonce": "57SZGj28blQ\u003d",
-          "signature": "D2Ig3AjXb7rP68QxaSoXMCW514XSU0GYa+GJC6+sonQflcK9C17CTWMhBPBqoQK2PnV/s+nKZSvJN53tfZ+kJGaiXWWM2W3gzDM/Ja3eKJkpy5bHt1kXD2D0/vxcklbuIERW6bvv+KFTojiuWLcOcI+/5hzpHzHDGH/tJaX26CTT3CSqSUi2wLf2ymtxGLJFLxbBf/JksX99SniCg/a2AlkTmXoQmN9kTZerWCW5M+3DYz9sh9rd9CqqLaKz+mK70JCSS1lshbJRX+vv79QelOcaNR/w+69m7T5b0M5uUEiDk0KszwD/l0HQc0LZrF2V9m0C19g8bxSQZToKgBpyqw\u003d\u003d"
+          "nonce": "zinq7CYsztw\u003d",
+          "signature": "o/o/7LqtF+dbZR2cqhq9yf4qm2xcN6wxpE4Zq0+fHJE6HwN16hkL5hKgC791Jch0qH3vpu2iKMFGZwsw0tkJqgAWxYJZnoHkgJQnkAkpYDc9Bm5hFFo9eT6hP/4DaPHq9FHZFGdQA0tthOaiiN1uBJ6uBfSZyMbCW9/vrrq4+PTydoLHj7eXQ4Cnpx9MmumJKdhepHQkrtFNMx5lCvmtvdAWLmfgwcJtW3MzVkpXLBkXRLbc6WrzvAnmu+9lhPIT9pC1weteD1ea3G5iEtKibbLXuQAPToFZtMob4QNbpyj2kJl7bV3XU6fS0aI3ujJ34aovr8gisQ6D1MVkVTsoeQ\u003d\u003d"
         }
       ]
     }
