@@ -58,10 +58,10 @@
         {
           "name": "CMLatitude",
           "uuid": "120239b8-3aba-4653-a828-dac60b6219cc",
-          "created": "2016-09-21T12:48:57Z",
+          "created": "2016-09-22T11:21:56Z",
           "algorithm": "SHA1withRSA",
-          "nonce": "lyJRczKMkTQ\u003d",
-          "signature": "t9IabiKRHZnWp58d3dB/vlCdViNeuU78/yLI0jHZikPlzSRwurnz2XwMoLFBm3hU4J6Sh13Vhv63wvJgZwfVJ59GQJincbMNhWJCE0ZICLbWW/y3UUhvajwOM0CWwlOuikoroBD3Y54wyJvCxJ0AjSTFfkW0Or6dYhqKegjXg+/uyF/8RD8soAJoR3j5mcLCd+iYL6YO5VW1HcSe5CI/MW8kXk56VqOxd3ZBT+duz6nW6uxEb8KHR+k3w1ZV/5QouLCNmCXw/XpSmMWGhcWBr6Vgfg/9i550kd9C7gmH0JbOD8EDLeNDwXmUxwqycdASyL64B+LNvZHn/xNzl3DqKw\u003d\u003d"
+          "nonce": "A+YA6ec1iRM\u003d",
+          "signature": "CSKc/0+okJ4Rm24mOgZ+zZXmqf5kITEc7VUy+PaKxJUGsSjMkpxXG5jwG6x/40DytOBZLhCSChHEs8m5NFHL/iQMmVkJeSYDlxeEhJ8DJ3KXYRJjbq092in9QarlSHJVIVLsZ6CjfJ/zBXyypgcHjuDQq6ayQkGT/64zziVB3uaA5maV66YljKq6wU/QglsXOa8NtRT9rKZ5dka/sYJFRVFjLHvOIvke80LCTRAMMjtgYv0CUzYaxkUmz5pqOsUUcm5U8wu2NOyTaL01I9GMTKgJmyW4GdjPg/QSVxyAelDLZyXdWb7OJbp5ECYfJakJ0zE4TSvyqR+q++kwsGMJHQ\u003d\u003d"
         }
       ]
     },
@@ -81,10 +81,10 @@
         {
           "name": "CMLatitude",
           "uuid": "120239b8-3aba-4653-a828-dac60b6219cc",
-          "created": "2016-09-21T12:49:22Z",
+          "created": "2016-09-22T11:22:21Z",
           "algorithm": "SHA1withRSA",
-          "nonce": "zinq7CYsztw\u003d",
-          "signature": "o/o/7LqtF+dbZR2cqhq9yf4qm2xcN6wxpE4Zq0+fHJE6HwN16hkL5hKgC791Jch0qH3vpu2iKMFGZwsw0tkJqgAWxYJZnoHkgJQnkAkpYDc9Bm5hFFo9eT6hP/4DaPHq9FHZFGdQA0tthOaiiN1uBJ6uBfSZyMbCW9/vrrq4+PTydoLHj7eXQ4Cnpx9MmumJKdhepHQkrtFNMx5lCvmtvdAWLmfgwcJtW3MzVkpXLBkXRLbc6WrzvAnmu+9lhPIT9pC1weteD1ea3G5iEtKibbLXuQAPToFZtMob4QNbpyj2kJl7bV3XU6fS0aI3ujJ34aovr8gisQ6D1MVkVTsoeQ\u003d\u003d"
+          "nonce": "Y2NYIEmTPGo\u003d",
+          "signature": "Q21f22CH//G8lpcOXT5A9PUrowjWtsgPLhnIylT/63hNHAJM3eCpRF6IrGE79ampbXN2vxAav3TtbKR+73KE3SnM7X+lMhI5/x2ldgZP28jwjYUkqChQI0DEDkHyteS9CkhNxN9y3af+++j3QWhTpjSYUH4tWOiifsHOhEJ29liwyEM6QP9QrVJjWL15DYx1TYhmUpjOejWB4zyVDRCWtdIB2eEVZ22vrN0UZnPPc+tnPP2Zhvnn5dx3P9Gurk9JbN33KZ4wG6hv0y9X3Y1/ohRphHrX2fw1hufJCm4WBIrq4pmThLEfoECKOIfLncKOTrSol5XJEkFBSW5k7jBf1A\u003d\u003d"
         }
       ]
     }
