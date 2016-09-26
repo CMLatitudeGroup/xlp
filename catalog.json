@@ -46,6 +46,27 @@
       ]
     },
     {
+      "name": "ext",
+      "namespace": "Ext",
+      "format": "1",
+      "version": "6.2.0.981",
+      "compatVersion": "6.2.0",
+      "creator": "Sencha",
+      "summary": "Ext JS",
+      "detailedDescription": "Sencha Ext JS JavaScript Framework",
+      "type": "framework",
+      "signatures": [
+        {
+          "name": "Sencha",
+          "uuid": "a4b3dae0-e206-4e88-bba3-7e9ae181e0c8",
+          "created": "2016-09-26T10:52:08Z",
+          "algorithm": "SHA1withRSA",
+          "nonce": "4DfKoDVkCto\u003d",
+          "signature": "OY7ejEh37M4eAJF2YOT0ri6aZqfv3JIjRLDIugsmryNcntcKGVAGXHjYW3hXsRRoFNMMI4wrK/rrGyRjy2V35IHvscT2HVWEoTjMBnmfs2hzx3mGGHJFq98oV2q/PnNxGhYDFZBlz8ho0JMx37bDou6dPXE7ACucFAp1Rd4gZXxxL/akniqgbt87N24VfV3CIUhzzhveTEcwun3TOfbF0vBlxBQ2N7o8FcHcefRR8NZjlJncQrrwWnLLTFSh0PjV5Rgg48PKZ5ZRKPVwWToKHEbvXbJAqqmU88Z8m/QnsZmro8TJhfRwqrUA8Dt2iTvvGpEnG5e/e54xMoOPjpFCTQ\u003d\u003d"
+        }
+      ]
+    },
+    {
       "name": "xlp",
       "namespace": "CML",
       "format": "1",
@@ -58,10 +79,10 @@
         {
           "name": "CMLatitude",
           "uuid": "120239b8-3aba-4653-a828-dac60b6219cc",
-          "created": "2016-09-22T11:21:56Z",
+          "created": "2016-09-26T10:49:16Z",
           "algorithm": "SHA1withRSA",
-          "nonce": "A+YA6ec1iRM\u003d",
-          "signature": "CSKc/0+okJ4Rm24mOgZ+zZXmqf5kITEc7VUy+PaKxJUGsSjMkpxXG5jwG6x/40DytOBZLhCSChHEs8m5NFHL/iQMmVkJeSYDlxeEhJ8DJ3KXYRJjbq092in9QarlSHJVIVLsZ6CjfJ/zBXyypgcHjuDQq6ayQkGT/64zziVB3uaA5maV66YljKq6wU/QglsXOa8NtRT9rKZ5dka/sYJFRVFjLHvOIvke80LCTRAMMjtgYv0CUzYaxkUmz5pqOsUUcm5U8wu2NOyTaL01I9GMTKgJmyW4GdjPg/QSVxyAelDLZyXdWb7OJbp5ECYfJakJ0zE4TSvyqR+q++kwsGMJHQ\u003d\u003d"
+          "nonce": "qfpXwrDr9kM\u003d",
+          "signature": "mEwPXKe6eK7P1J4WkyQjxlFGJt5vGtK3D6nygjLY9ht8jcR1kOaWGWANpjMW0PGCNYjwBGamfQswt/9wcxMYL7+o2E43cKdFlb9TivFQnY/nTBng5pDsHrhQL9R36caiY7IyLiYCQqw/pbrhJ4viSECrBAzwKD4ROlXKB0BVfGc89Esmf5SMNoSBV6PFRF3AlXJUc0EN2xwms7hDfbWzWRoYTDlJ/cy5Z4ngtAsYK2D91V8z6xpHHL2T6ApPEsr3uM9UIo2QFJDlJNgN0/lxGLJRFUYGE0x5Ym6fpOmvBKpC0JTxq+ZwY2UczLiowHDdRN8ptaFR9sAkDz3RfzuvyA\u003d\u003d"
         }
       ]
     },
@@ -81,10 +102,10 @@
         {
           "name": "CMLatitude",
           "uuid": "120239b8-3aba-4653-a828-dac60b6219cc",
-          "created": "2016-09-22T11:22:21Z",
+          "created": "2016-09-26T10:49:55Z",
           "algorithm": "SHA1withRSA",
-          "nonce": "Y2NYIEmTPGo\u003d",
-          "signature": "Q21f22CH//G8lpcOXT5A9PUrowjWtsgPLhnIylT/63hNHAJM3eCpRF6IrGE79ampbXN2vxAav3TtbKR+73KE3SnM7X+lMhI5/x2ldgZP28jwjYUkqChQI0DEDkHyteS9CkhNxN9y3af+++j3QWhTpjSYUH4tWOiifsHOhEJ29liwyEM6QP9QrVJjWL15DYx1TYhmUpjOejWB4zyVDRCWtdIB2eEVZ22vrN0UZnPPc+tnPP2Zhvnn5dx3P9Gurk9JbN33KZ4wG6hv0y9X3Y1/ohRphHrX2fw1hufJCm4WBIrq4pmThLEfoECKOIfLncKOTrSol5XJEkFBSW5k7jBf1A\u003d\u003d"
+          "nonce": "pjreKBG+Bfc\u003d",
+          "signature": "FBGmyG/FyZEVwNypP33C1bqoGvG8us9USjEp3qrAmvBLcrUv2ndTaBUvVjrgM/EsaMU8XpZrMkgJV+JtpEUbbygKPZ3gGQSrznySUtEO8CHM4AGVX+zDAammlrDXklCLfklArRTReWoOPfNon/ayOrMKmdO7pr8dsmGYTxljMDjtrY7KbtiE6WtJsMYGII5ebWc1GmDDkM9g7BPY87hk9LIa1AziAQZYfrwp5WN0CRCqn+ySxcgTBu13g0GPkEe0Tu26ofN5SUoAfQyFcAaHT7CckJ07Pm/wzamR2IvEmOFyoCB91HpW0P69hkW0a1InYy05icVJo95iw1AWeV2bxg\u003d\u003d"
         }
       ]
     }

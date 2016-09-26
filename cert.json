@@ -1,0 +1,23 @@
+{
+  "data": {
+    "created": "2016-09-26T10:51:58Z",
+    "email": "support@mycompany.com",
+    "expires": "2021-09-27T00:00:00Z",
+    "name": "Sencha",
+    "uuid": "a4b3dae0-e206-4e88-bba3-7e9ae181e0c8"
+  },
+  "publicKey": {
+    "algorithm": "RSA",
+    "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkfYrYRhirpQ0Yj9KjcfTOn9w+gWnl7/cBXKc33uNKeePyr6EK0oXrTktLrD/KQF9HWIju8juRNML4e5wE+QXPyuwxCYZ2Jr5cp3yTd2EXxNSlm5Px8XCWPaaMG8hRqi0N+TtesvhAnlm9PDrFLWw7vEhXOwNeweV1F2h52XBdFplZIvyO/v7yDp1pFV0XVkCnYNU6TsVVXuHoDO1gbVvBFzM5mhvy2xGpG28q4g7H2C8k897wiIDgd5ipY2o1lozM7GTBPaLv451lkwhYxCl/fYh67T8yxfhJoYgpdnNFgUq5m/Zy5uFqf8mg89hcB6QSU3ZaBsfoA6wMN6EI1kOFwIDAQAB"
+  },
+  "signatures": [
+    {
+      "name": "Sencha",
+      "uuid": "a4b3dae0-e206-4e88-bba3-7e9ae181e0c8",
+      "created": "2016-09-26T10:52:00Z",
+      "algorithm": "SHA1withRSA",
+      "nonce": "HrXXHdmn2KU\u003d",
+      "signature": "XD2oliLoqK1KZWubuJZGQIVy5NqRvZulCe6RZ7IqqVESPt/m49quan7GOqaakTHVvErwqNHvolY6Ftxv4TVJSQLlaXuQzxunJ9fx/rRiHh/X0FIm0dTZYgkzPEUI6Cl/yIqO9fWw3lCKgGBRWitsRvI0SSq5TDHwwYmyk+azYqKBtGJwYcHgnetSs5Pl2nNZBD+G6Le+o7kpmilNhpB1+61wlrOQKZzmjbA8xiqTiXSf7Oe/67PJLlWCm11MeCF2iXzSscGwKrNydehOAFa6WRWcz8p09HSB+7jz4N2skqkw2nqQde8q/Qnk//7wKOW5P5T8aqSvuKMlLs2XONXDBg\u003d\u003d"
+    }
+  ]
+}
