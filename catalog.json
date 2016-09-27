@@ -79,10 +79,10 @@
         {
           "name": "CMLatitude",
           "uuid": "10851d89-2e70-47bd-ab59-02a1a6b8ae3e",
-          "created": "2016-09-27T11:10:16Z",
+          "created": "2016-09-27T11:26:23Z",
           "algorithm": "SHA1withRSA",
-          "nonce": "SSPXwXkCuAw\u003d",
-          "signature": "JdHXLquBXv2/2bgCo5wdDb32YEjYNUpAPQiEJSGez7qflCXkioXV+VMeUPWC+zLke3+HO8b/r1Oqx4oyF+EM+8TQ3qwQUzeJgzyOARJ0tGKbU3tHroYXjLoBdJzjhfNUvRevFz/xRXnZ7Zf+6JgSwW1bL4fxyWT90HoQf8t3TR3RK7xrYrtQ9io74bWrk6EDkSZQG9n8IO0Dfq7geBUJU+XjtypxkdPh3yDRWFv9I58HazeFLXV5det0m8DbBcEYzWigh25SF82FpruUz/AugCV+dPg4UyrKgI3hz3tHn7005wWDbnXIMR32n9uLK/FovDW1SWAn2zSbV1rPirA5qw\u003d\u003d"
+          "nonce": "+JJigKZOjbc\u003d",
+          "signature": "pLir3vO615jdghUxdCW/QqWwyeys+Dn/ka7sHiGIpDNZ6XixzYcHSjR5o3pEKgMX5Sb1/3buiebUVg6hwA6by76IAZQJPAQ3h3a4L9zCUeX8hQV4qhNwKrSaLHWtJKTvAPAHBZfIUDwe1LMq/w+RWJG+gFYJfUoUqlJ4Jz0GGSRMbA4+KXwZxP9djMG5a8lU/kX6tiXgJJYWjBfLKzEEQOA62nDtWO8ojvGBWVs6NMcab747SCWKa4l637FMVJOX5LVmNIZKpgXUuUmUR752/6Y8PH4b1eEDrWYzmHcCvudSDXDKSmMr4Y4EtXNAErobjDriNBUF61b/zuNvgfS+KA\u003d\u003d"
         }
       ]
     },
@@ -102,10 +102,10 @@
         {
           "name": "CMLatitude",
           "uuid": "10851d89-2e70-47bd-ab59-02a1a6b8ae3e",
-          "created": "2016-09-27T11:10:39Z",
+          "created": "2016-09-27T11:26:46Z",
           "algorithm": "SHA1withRSA",
-          "nonce": "ebpOH+iAtf0\u003d",
-          "signature": "f6/Caoj43inbPo07ArJCErx3naRKQw5K7dciCPrsGocMZmVCUawNc3hB8NP0OE5izG9zT6iDCuOrHEFWpvcRBAxgmo1vYiz6aNoA0naMNwXC2fWAaTeE6HvlD59MWGO3WAas1FQooT+HIyfg4fGeKAK8xjj8kAZ3GbhsFDxVS2jkfLP02xa6wYAH0eEepGJuEOPcE5fvySbe+XM+VvWeKV1uCpX0r5fNF+GGuz7CzvB3zalEr7dgXs2MyBqIt8AFaHcVAVM0bdMCAEZm75Fa83HT36EGD994AVWGF72tIOHT+GKoyTvlVSkb8qA1o9iNemuJBff3qYlyrU+Tw8V9uw\u003d\u003d"
+          "nonce": "X2S6IR+gZb0\u003d",
+          "signature": "QLLawgtVS/p2ANJexe1WiuBSFtid73bN45YlAwlbd3r8UjmdkhTANz62D9FZOzPYaxzXddVetMg8kJJ7xGT5rjnw4w8kIgO9q2hwFF5nfoiHRjbu4nWIWZWAwHeF/DtPX7DWWSGo3HGoR7Wa1SH3jBX2dakptjE3P3akXPjzFxolhiCDhSK+As+ApyBrkDsFF+Ao8ZAfdWQoqEmgb9uKeUoVgIgARjRxl5oRCEtkA9dJMWhaahB2W2OGe0n3KzI0mbfuLgGYuoDdRXvbAA3Uwidgpa9cwSIr+2X+1EOg5zOVlPl2xKnOxrGPAtiS1zYyLbh8GNAIONOfzLdPu/nPGA\u003d\u003d"
         }
       ]
     }

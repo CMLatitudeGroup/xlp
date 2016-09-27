@@ -14,10 +14,10 @@
     {
       "name": "CMLatitude",
       "uuid": "10851d89-2e70-47bd-ab59-02a1a6b8ae3e",
-      "created": "2016-09-27T11:10:39Z",
+      "created": "2016-09-27T11:26:46Z",
       "algorithm": "SHA1withRSA",
-      "nonce": "ebpOH+iAtf0\u003d",
-      "signature": "f6/Caoj43inbPo07ArJCErx3naRKQw5K7dciCPrsGocMZmVCUawNc3hB8NP0OE5izG9zT6iDCuOrHEFWpvcRBAxgmo1vYiz6aNoA0naMNwXC2fWAaTeE6HvlD59MWGO3WAas1FQooT+HIyfg4fGeKAK8xjj8kAZ3GbhsFDxVS2jkfLP02xa6wYAH0eEepGJuEOPcE5fvySbe+XM+VvWeKV1uCpX0r5fNF+GGuz7CzvB3zalEr7dgXs2MyBqIt8AFaHcVAVM0bdMCAEZm75Fa83HT36EGD994AVWGF72tIOHT+GKoyTvlVSkb8qA1o9iNemuJBff3qYlyrU+Tw8V9uw\u003d\u003d"
+      "nonce": "X2S6IR+gZb0\u003d",
+      "signature": "QLLawgtVS/p2ANJexe1WiuBSFtid73bN45YlAwlbd3r8UjmdkhTANz62D9FZOzPYaxzXddVetMg8kJJ7xGT5rjnw4w8kIgO9q2hwFF5nfoiHRjbu4nWIWZWAwHeF/DtPX7DWWSGo3HGoR7Wa1SH3jBX2dakptjE3P3akXPjzFxolhiCDhSK+As+ApyBrkDsFF+Ao8ZAfdWQoqEmgb9uKeUoVgIgARjRxl5oRCEtkA9dJMWhaahB2W2OGe0n3KzI0mbfuLgGYuoDdRXvbAA3Uwidgpa9cwSIr+2X+1EOg5zOVlPl2xKnOxrGPAtiS1zYyLbh8GNAIONOfzLdPu/nPGA\u003d\u003d"
     }
   ],
   "framework": "ext",
