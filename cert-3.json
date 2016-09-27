@@ -1,0 +1,31 @@
+{
+  "data": {
+    "created": "2016-09-27T10:28:01Z",
+    "email": "support@mycompany.com",
+    "expires": "2021-09-28T00:00:00Z",
+    "name": "CMLatitude",
+    "uuid": "1e45fffa-e156-4cf9-b546-0783bcd34240"
+  },
+  "publicKey": {
+    "algorithm": "RSA",
+    "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAk/3+AZ4hBy7gJjbsvWAeOLpbjKYzhO6wLWmVPKmQ0/TrMaUDM+J7CnTkC2o0MROj+Hc1I80fkhxf3toRUVWrUqfQeoDKooGbiE3huFi49ywIewo3LE3JIM81YaZ3VDVnkPDmn6G/4rmKeP0vBWumM2rGeNZVVmiKY9H6yMaDDLs/3EkvOVtCPGAQnBdiTo4DMqu6rZVpevPuU/2ZPJ7kra5bKAeP5M3YFBr3DlfpmPXY9SU9nogEEOzgaYNiPylYyDGh4sOcNgL92m43DfxsdrNS6ohkYEM9ke3FOiOPUhRiMDMpjFSgm7lJ/edmghtkCno/OS2kOW4l2zejccNI5QIDAQAB"
+  },
+  "signatures": [
+    {
+      "name": "CMLatitude",
+      "uuid": "1e45fffa-e156-4cf9-b546-0783bcd34240",
+      "created": "2016-09-27T10:28:04Z",
+      "algorithm": "SHA1withRSA",
+      "nonce": "fBJ3ds7kjTs\u003d",
+      "signature": "kVk8Ruo73rDX11fB76SAqXTE5mrA2sat8dAQQsIShqyXkOF1W/TpCrwgM3epwow8ypJi+3e1jOEHUmvBVmbUKHuwi14pXAZOZSfcy2E33FzM3SDDxzQZdYHIDeGxkF4WE93lucl6ShondZ1wf0SdsZhNPIEvyot/RyCG4i+OCytroSuKNyc7ve1FiI4XSETIXNouZxhl5+0zjNlNCOZSqB+wrAyzVDNiHlQtIb4Bl0EwbqXIU1o5p4VjRo1PCSred/f9u62HLSiVZkADytB77DutFe4eUnN84aGQ2WU5/ROmmmAHNAUsXq26Gnhl2h+iRb3x2cRABBa+8szqmeTC4g\u003d\u003d"
+    },
+    {
+      "name": "CMLatitude",
+      "uuid": "120239b8-3aba-4653-a828-dac60b6219cc",
+      "created": "2016-09-27T10:28:04Z",
+      "algorithm": "SHA1withRSA",
+      "nonce": "5fyd5Wrcsx4\u003d",
+      "signature": "Vqdc6k4wtFe45hu7dj7dE8BhFjIqCa7Lmd9TKltyNV2hFWvymvr7d1btYZj1ZvfmF5qcCp4aRb0wnu5xUKbtlXgix6c8xGRfE+OvweVYz7u6rAHVMzFRdrNRXdJ1zBKophIcvOcdoFJLaXCXuwHLt3K9ZQp7HcKn+ke5rj0jx4KH5CNAkcTu/BlMvg4hX4uvtS/cKHY8c0qNQGxZhOc37iu0SQfXoy79SPu9hk8azNhYPCusPd0qr1vEyhRGYVWlnwnJsX0Apu8onHxJAhEqf6OW0XL2oZeujYFaVbG5qZ9Bu2unfz2y4/ZIbujXcYllCqQXsbcyjdS4i9CVF0pHzQ\u003d\u003d"
+    }
+  ]
+}

@@ -13,11 +13,11 @@
   "signatures": [
     {
       "name": "CMLatitude",
-      "uuid": "120239b8-3aba-4653-a828-dac60b6219cc",
-      "created": "2016-09-26T10:49:55Z",
+      "uuid": "10851d89-2e70-47bd-ab59-02a1a6b8ae3e",
+      "created": "2016-09-27T11:10:39Z",
       "algorithm": "SHA1withRSA",
-      "nonce": "pjreKBG+Bfc\u003d",
-      "signature": "FBGmyG/FyZEVwNypP33C1bqoGvG8us9USjEp3qrAmvBLcrUv2ndTaBUvVjrgM/EsaMU8XpZrMkgJV+JtpEUbbygKPZ3gGQSrznySUtEO8CHM4AGVX+zDAammlrDXklCLfklArRTReWoOPfNon/ayOrMKmdO7pr8dsmGYTxljMDjtrY7KbtiE6WtJsMYGII5ebWc1GmDDkM9g7BPY87hk9LIa1AziAQZYfrwp5WN0CRCqn+ySxcgTBu13g0GPkEe0Tu26ofN5SUoAfQyFcAaHT7CckJ07Pm/wzamR2IvEmOFyoCB91HpW0P69hkW0a1InYy05icVJo95iw1AWeV2bxg\u003d\u003d"
+      "nonce": "ebpOH+iAtf0\u003d",
+      "signature": "f6/Caoj43inbPo07ArJCErx3naRKQw5K7dciCPrsGocMZmVCUawNc3hB8NP0OE5izG9zT6iDCuOrHEFWpvcRBAxgmo1vYiz6aNoA0naMNwXC2fWAaTeE6HvlD59MWGO3WAas1FQooT+HIyfg4fGeKAK8xjj8kAZ3GbhsFDxVS2jkfLP02xa6wYAH0eEepGJuEOPcE5fvySbe+XM+VvWeKV1uCpX0r5fNF+GGuz7CzvB3zalEr7dgXs2MyBqIt8AFaHcVAVM0bdMCAEZm75Fa83HT36EGD994AVWGF72tIOHT+GKoyTvlVSkb8qA1o9iNemuJBff3qYlyrU+Tw8V9uw\u003d\u003d"
     }
   ],
   "framework": "ext",
