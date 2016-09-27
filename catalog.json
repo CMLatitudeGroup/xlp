@@ -79,10 +79,10 @@
         {
           "name": "CMLatitude",
           "uuid": "10851d89-2e70-47bd-ab59-02a1a6b8ae3e",
-          "created": "2016-09-27T11:26:23Z",
+          "created": "2016-09-27T11:54:36Z",
           "algorithm": "SHA1withRSA",
-          "nonce": "+JJigKZOjbc\u003d",
-          "signature": "pLir3vO615jdghUxdCW/QqWwyeys+Dn/ka7sHiGIpDNZ6XixzYcHSjR5o3pEKgMX5Sb1/3buiebUVg6hwA6by76IAZQJPAQ3h3a4L9zCUeX8hQV4qhNwKrSaLHWtJKTvAPAHBZfIUDwe1LMq/w+RWJG+gFYJfUoUqlJ4Jz0GGSRMbA4+KXwZxP9djMG5a8lU/kX6tiXgJJYWjBfLKzEEQOA62nDtWO8ojvGBWVs6NMcab747SCWKa4l637FMVJOX5LVmNIZKpgXUuUmUR752/6Y8PH4b1eEDrWYzmHcCvudSDXDKSmMr4Y4EtXNAErobjDriNBUF61b/zuNvgfS+KA\u003d\u003d"
+          "nonce": "z/n+YDrwhdM\u003d",
+          "signature": "bC7BNPb0vd2iCHdeycfpB4zAxWsfZfxzjq/31DgF/qxhOE/yzppKckzuHUhNanL+xXo+vjm0KyA3zDxYnxXs75G527kxIFz4etCws1oycsq9rX3Iu8+gbSW/Nu/wPAm+0pYBsjDfiPGP0WNGcFOu5zI3eyGNgnpZDiYK6CJqOsREj4afYTkLllwQxGpgqdbD1EBWrnMYk+TELGByLYtW+2mAm7395l1MRuctDmU/TasREP0zaiiZ9ukTpatFHkCbZkEfnJZGeR82ZTb3QtGq1jDsOMSAl49jtgLUjWnE//vVIRH1MLaOLIcUHZmXB3dSSD08voMRhTmplo7+mFUTDg\u003d\u003d"
         }
       ]
     },
@@ -102,10 +102,10 @@
         {
           "name": "CMLatitude",
           "uuid": "10851d89-2e70-47bd-ab59-02a1a6b8ae3e",
-          "created": "2016-09-27T11:26:46Z",
+          "created": "2016-09-27T11:54:59Z",
           "algorithm": "SHA1withRSA",
-          "nonce": "X2S6IR+gZb0\u003d",
-          "signature": "QLLawgtVS/p2ANJexe1WiuBSFtid73bN45YlAwlbd3r8UjmdkhTANz62D9FZOzPYaxzXddVetMg8kJJ7xGT5rjnw4w8kIgO9q2hwFF5nfoiHRjbu4nWIWZWAwHeF/DtPX7DWWSGo3HGoR7Wa1SH3jBX2dakptjE3P3akXPjzFxolhiCDhSK+As+ApyBrkDsFF+Ao8ZAfdWQoqEmgb9uKeUoVgIgARjRxl5oRCEtkA9dJMWhaahB2W2OGe0n3KzI0mbfuLgGYuoDdRXvbAA3Uwidgpa9cwSIr+2X+1EOg5zOVlPl2xKnOxrGPAtiS1zYyLbh8GNAIONOfzLdPu/nPGA\u003d\u003d"
+          "nonce": "r5Oju10JjHk\u003d",
+          "signature": "SHJSigjjNnR66iw4vFx1/gMxitgN3SvPZO8ioRB85iErKvl/AoYrCH/bbDJiOnfVduonnBjxV1q1MzxF5H9FyJz/7D1q9Ew1kklxF+KnXPqFNCurFeZyjGiziPegN8FhcWFKAAaGVPAuDrpYwdnFdT97RApLskPwgcljF8ysBFR7D7q98+DB+4BKeFJVPKDv2IMzhh6JObRYem4rMed5NPCVUxh6/c6soo4gHc5NMJbfbtcZhqwZ+qyvuzmNHLeXDeIe4/WOm/GEOvjzgBYShXwQO/8aO2uVm+/Y2jwkjOhMExrvzeWFuE1d+Ac4ZPk3+jzma6Lf1+iiGbcp97hWRw\u003d\u003d"
         }
       ]
     }
