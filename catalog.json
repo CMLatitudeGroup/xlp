@@ -79,10 +79,10 @@
         {
           "name": "CMLatitude",
           "uuid": "10851d89-2e70-47bd-ab59-02a1a6b8ae3e",
-          "created": "2016-11-10T15:30:52Z",
+          "created": "2016-11-10T15:36:40Z",
           "algorithm": "SHA1withRSA",
-          "nonce": "CvH27IRkO9k\u003d",
-          "signature": "qsPlYmArlGIZm6Y8EGuYWZLBXDhKXJxbtkGwTYe/0VwEtirn/PmDBnKoLQV9cX+0CKsq/9rciI8dIHQbr/WgHUPdsdguwAtAxUyUbVXjEveP6IwAUVBKh803tsaychKbQOd/LBpDBPRMdyELFCnWy2DEB5ylWrDx+aRgoK7IC9Sr53vfmNbZjq6gJgv8IcVKYP1E/ZH9XYAcuF0wnBMLirDfvp0r12DOsH1syOhdN7a3jsYp7yo5dbqvLI8kAXzzpJfI3PLzE+UDoshhr7rVzFvx4mZB8Z3L4ng8YbOKEFyiDTgq0DrBjySc/GRW00aq1yyuMjPyhjBq+mSFw4pxOQ\u003d\u003d"
+          "nonce": "B9+M+L4MZCU\u003d",
+          "signature": "Q7I0Wjt89rAXBUHUmVP/Oeci8fT+3QITRw8Y2MDGVi0Qv9HwfrrXCmUddupO6uEGknvIhLKU6aqyt2qygEtvMKzqPjxy9GCpL93hHUveWygv0yZdyYMun8dIM5war2pC6ajxgxZehoy8B6SkSVDdO9SPDBgZWAgWouxh+mS6whJ7dV3QSXqreCsOYtwDC2KC1tC3HKQMo3fyk9g0oIRMJSHxQaTula7pGh/iUO8sHqD51LbhPcwappSYNeMk1XNjzyANU8hL/QQZAKkUIJPywdyJTPEQIn/mOf6hTf3BhC9TQtcszOxTRXUqsGPqvxkPfwyixmEcNBeNlT/Qaw1Fdg\u003d\u003d"
         }
       ]
     },
@@ -102,10 +102,10 @@
         {
           "name": "CMLatitude",
           "uuid": "10851d89-2e70-47bd-ab59-02a1a6b8ae3e",
-          "created": "2016-11-10T15:31:15Z",
+          "created": "2016-11-10T15:37:02Z",
           "algorithm": "SHA1withRSA",
-          "nonce": "BKaT8uyKGuA\u003d",
-          "signature": "KZcdOMA6E1UnJAU+B8j6jzdtJfcxNsDXwXSwWERZIef2xxFL2sNxeVJby7G/LBsPLmDyyfHbzqhby9WmsgkmqGJcyzP/bP/cMj65pByHwuN7ajZLPiAvkfarr2o5a8PWVzdPS8vewVm8Ahx9vIUA2WlFv7fszHNNVMz4Foh1mei4GVUx4iP2/i4+nyIdx/b4WbhJCDUjs5/ki5fCHWFtNQzscyeH3YqPPf7InEg7ccQsodBUi/mtQ5pIk0f4T2rUTxppln/NE9EKpdwCkEYlD0PWBdjTu242Ju7DJq5h4UVSBs3gkg0EaYJkn+i3YUOe4HXc8JpVJ1+GyHozouyL3Q\u003d\u003d"
+          "nonce": "AtgxSdxyLQ4\u003d",
+          "signature": "e4oW6BKd5vvRQPgv0HgEq+YxFjvGzfuFUisGeIDQwZHW5kAboYlZxZulbhnLA65WJIr2rcrGtRWE/jIrxSrRWTx7ddO92IQo1nIfP+IjcqAVwy6TPq4yD9W3KN5Xlc+KoDxWx4ld+nGtj+WWIFIAxDk/JzK3O11fFevIiF/lEs613qDgxCoEkbyGvIPm0778mpvfgXqMfm9yc2xDpaUixM34u3eXHKu+kYXXe8q+4A4eOjb1mOv3SwugjpSW3xI84NzAHLF8GbYv6GnVWGxL1SsoqINvA5XnaoTgOcHvrjZIsyMJ2U+PIBff6QoroaK3cJmYxDIIwf9DXBtwhzic4g\u003d\u003d"
         }
       ]
     }
