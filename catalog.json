@@ -79,10 +79,10 @@
         {
           "name": "CMLatitude",
           "uuid": "10851d89-2e70-47bd-ab59-02a1a6b8ae3e",
-          "created": "2016-12-06T14:34:04Z",
+          "created": "2016-12-08T16:55:07Z",
           "algorithm": "SHA1withRSA",
-          "nonce": "39WIZmM+Gdc\u003d",
-          "signature": "fwXu2keTlkVx3Nt3c46pEvkE9ptnwkwYpoiv+tI8wPOrUH6GDxU2w53ZbFPLU6xGy87kpCHamJCAN8itzsp2VkP/2lNu0CDGYl/5OCiyrv49wgMoJvyFdp2UWTskgtcTgGHBFZGtL2jQttRqlTrhcTwgS6XPHZigp/9B7BDdiLe8dFnPaPP5p18TAsy1OEGrIdQWOGRo+xzM/xpmxDls6ZM5Fmqt5tPVfzhSGSrwawYlx/QFHm3qYBe0uh6o/SayUxvAKO5DD0pXWDwY20SGmaNHU97/YLwKrr9qkyzcYVey0LrNbFNlTtzPeHpj5uj97kwTBzvE67uL52+hvHnIJw\u003d\u003d"
+          "nonce": "2VR3MU1lbts\u003d",
+          "signature": "Aef4FZbJWczTbtI5op6sP/t8Wm9QQuLLjqZKb799ORlVU4n5MPKLDHJkV3S72zs6OYdeggYgzjv9J878KGcQd/N2cfOpizxzK9ZYje7RL0kvmHDfNRCh4ZuV49O7Q8Bv7bs47WBI99YZg6oOgjHZ1C21drmpQGa25Dk1LR7oz0aR/nWpd3PhpM69ESlXPzHZfxfBW4em/dq8ZxIDmtHPymIX//2J3dnpxLtyPKEuw7lZ9F3uOHA+7Pc5hdkS2c1cED63npcRojs7yoONpHBJqzz5zefX15DY0Zi3QmfD4v0S7EK2CLv/z9M1vKjAij9bo+GK2S6MmtlCxPwHEmKy3Q\u003d\u003d"
         }
       ]
     },
@@ -102,10 +102,10 @@
         {
           "name": "CMLatitude",
           "uuid": "10851d89-2e70-47bd-ab59-02a1a6b8ae3e",
-          "created": "2016-12-06T14:34:33Z",
+          "created": "2016-12-08T16:55:33Z",
           "algorithm": "SHA1withRSA",
-          "nonce": "yyBV8WY2O5Q\u003d",
-          "signature": "QVgx8JPj/LUDtvtVuOR6UcoFdoi6DOoDFrod1lEOoOIz4tmToATEQQ///tkKL4p0StSLRAHDm+6TWJiXYSc4MgSm4cEOKfQkXRu5MJf/cLI3RZ9Z8eB7vC8jGpunUh6HvZjK3y8Hj3Bz6mwKH23kSpsBeTWPfEezEWK8PVCawLKiBg61bHlkRX94nJ3QgCbv6lJJOGndNIpA67xnHRYPea6opGivIs08EKQx5uCQiKxcpd9nhwV5zt+ufxYM2uz9c/cNaFu89yCRH4uNNjhPd38dL7CjAOHUpF7UJa0gJti1doFUAdDcc2B5bevP0jnHFi5ncmUoEUNbqOHwJG2tlg\u003d\u003d"
+          "nonce": "NNensr1kolc\u003d",
+          "signature": "avGh6LINoQ4V8HKDJObnAeRDSXbh5ia6OVie8FDunsJvpxtLmwsp1BtxsfMZ+PIAxx3n5RmLAfot1hebUl2ZXiWR1GaWGY/Eg/iT72Mq9yhLSVjPW5qa6ujEii98m24teaNq59aN+5fFvge+xPmknDhdU8fSq+aMJFvF7UjXB+65lswi+uy3a0dMvYcOqiomU+Es8BtOkq6GdFTAAIW0BeUmC+2Fs9EvXJCohc27BQ+K8nGmKmh6d4nGsGPbL+mnqaYTiIhsOd4mRmbbEnH0RIufaiCsQp1nwye02CcXaGzmdhh2Z1QHSW44tvQagtZU69B+Ey3CpEHdP12R/jic8w\u003d\u003d"
         }
       ]
     }
