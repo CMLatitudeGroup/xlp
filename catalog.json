@@ -79,10 +79,10 @@
         {
           "name": "CMLatitude",
           "uuid": "10851d89-2e70-47bd-ab59-02a1a6b8ae3e",
-          "created": "2016-12-21T14:48:36Z",
+          "created": "2017-01-26T13:39:54Z",
           "algorithm": "SHA1withRSA",
-          "nonce": "EAMLkwAnTZ8\u003d",
-          "signature": "pKMmqSiAeVW6x8iPWrgZsHpWYGWD6WhZ5VQryj0u493wQimvTvGz4glCjjf3ZWqCpEuHe3FC779uyO7bL8nTkRg6spJ6v4UYHwa+f8tPAo03+jUARmqk7G4Kl6x56zpY2wBcRaPU/KWKOqon9tDtFMFbZKQQ606dQlWryl+rF/zuPp0msW8IFfUUJITcj4DQWLirphG6GWjFzuFOo4QJIAFyj2vso29zOBsQ2SdJ1uiONzZ9XqPVms/Iywq8kxeXiJ81aaa67j3iYEQVDmtWGY/4WjhHERfLef0eMsODzt3M1/FLMvtrSrbYznvPR5hbcejyDjiE47HbU+PdDZ0b0Q\u003d\u003d"
+          "nonce": "MSSRilzZimw\u003d",
+          "signature": "opXCrrE/W1yqHHXuowzrxDmepxEXiTgfW/oD4+03JprcEJ+MbilKOHjq+y+CWlXIfJxVcCVahCkUg9MtyvUByfbwqHXXqMP3rX7vh1aLkQmkj4e5CNoAtya2mtTzYp71D8HwmekFRaeDuofARgMMSsehsK3QMLRATifW0m1uYlTMqZJ3Y5ybcx1AUCwOXv/NybyN7pkHuLu4QHjm/ZotuZs/7pUoSD26c0GSJpT/3JbbxeP6jPYVlLDx9YjOmmaelGAbPs/BIClbd8wXycVQzETxY9dvhiFHFUKnMfCAa/cUYrdpTnPOlkHk8T75bFioN7ITjWlWweD1Q2m5t/nTVg\u003d\u003d"
         }
       ]
     },
@@ -102,10 +102,10 @@
         {
           "name": "CMLatitude",
           "uuid": "10851d89-2e70-47bd-ab59-02a1a6b8ae3e",
-          "created": "2016-12-21T14:48:59Z",
+          "created": "2017-01-26T13:40:20Z",
           "algorithm": "SHA1withRSA",
-          "nonce": "bWd7PBlkRzU\u003d",
-          "signature": "B0DkCik6UKCIhN5EJALsdf+0rIFlvnWE25Ora5FWcNo9jkWJMnQ5C6CDToWz3OJtwcy7nJ19RhtBKyoTkXMaQXPzmJ0V4ZzHoEO16LIVWigkXO6f8GrpnTIqgfb21hahgJNXcrjRBo9shfgbHThA5jpeJ52iLRJgeP9m/HLhtrVupRkFD97Spf7QCNbWfxQFI0m4t9VOwmiNrD+WG/EDDdgF1YVPl2Gi9/IOdtmQkTZdGCBY8055KJIwzO9GftL86Qguy8bvhG4usGEDRmLz0p+YN5Mgl0ALwItWs6TQ3OSDrLiE7d4DcqOZTPB7Ltj5FY+MyYBbh/9jI2pL1FNcPQ\u003d\u003d"
+          "nonce": "mWI41jbHexY\u003d",
+          "signature": "ofFn9wifNtBAXf9LlJxw+GLpBw9UPqebyf4hIAf+Qj5xDpehqqPlCelvsBysVO8m1HEws6i7pf9Lyyupjs0WXTW7KWCewpSNMyk6q2K5pBOblwgvn9+0UyLFxyG384m7EyFXQ8QjvsM8HMbY2IZ+5MwqM3+6jZskiXnP7mp31jYWna/fE9bbTssdc2w/SAdpdZ6wRE2fNPyNSKHJZbcLnpCe6h8GPp05Sp98xn6rnWeANij6VZFkTg6nNG/MnAsBC3EFwZqYKyv/NmmZVKV0mYTaZGzXJPg4/ZJckEb0CMjavHpYNX91NTxgmWHlrNzOioZ54HcFi/cxxMkcgaUVag\u003d\u003d"
         }
       ]
     }
