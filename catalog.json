@@ -79,10 +79,10 @@
         {
           "name": "CMLatitude",
           "uuid": "10851d89-2e70-47bd-ab59-02a1a6b8ae3e",
-          "created": "2017-02-24T14:37:18Z",
+          "created": "2017-03-15T14:03:56Z",
           "algorithm": "SHA1withRSA",
-          "nonce": "9vaefyk99nE\u003d",
-          "signature": "p8eor04LSbhD2w3vSq7NZXwkkUg/EdB/0rk4Ec2AN/G4RKnX5jq45bNq1BuluLm7syFt2+ge7d2KnFoNvIVl192uH4NayzT5noZFVje8lphM0Ufk4SwZVB7kcstD9Km7rCYKYPCKfS8LMIckBH/uwmtEQ+dD0VJNHX5eQf9CsU1C3c5mdLhpq3VdxOgx8fbPtgVQz8fVgnNpcPVqyxuyuk/cKk0UChTxrQPgXnO4DPMXUPG6cI7/C3tJODn0S0yV293nhJ/3Ilgci/hbmePQfw7+Ge98a1iSv8oWRqlo8j6z7nc/C7M1gABhk6/r1eSH+XUNKLzGywbg83vvs3FH+g\u003d\u003d"
+          "nonce": "5py5Ir5aERw\u003d",
+          "signature": "tFrZ8SU/FUh9GxSJEakBa37zK2/sMPMqdD18YcdccnlT4C6W/v0m/VDzA2lYI00eSxcHzBv9Gnk97QfygjRgc+kI2axO1ptVTR23k+BRo6Y2bAFoy9NiRIQE+ige9yl+y66PDxtvVJlRxaOB7iUuzRrlFyGASzUbMnR0ZI8IxxhONiektiiE/A2MLajwdagj0p/f2/X011nRfPq1NvvWEyvv1qVlOKCHAiQDavVBM4YOSY7/qyjnE+jZ7rnOXXEP3+B8c37S0XkWcYTrOPmqYePukPYI8asukX8FSCvAY31CRGrnCjHL4mN1S9RrS6FhWL3qJHR+EeFGiTZzFF1M/w\u003d\u003d"
         }
       ]
     },
@@ -102,10 +102,10 @@
         {
           "name": "CMLatitude",
           "uuid": "10851d89-2e70-47bd-ab59-02a1a6b8ae3e",
-          "created": "2017-02-24T14:37:44Z",
+          "created": "2017-03-15T14:04:20Z",
           "algorithm": "SHA1withRSA",
-          "nonce": "BcRtc6fxLxU\u003d",
-          "signature": "h2RJEvZC/m4YRjnUmgp8dZOaXHl+Zbptof8PwuMZKY87IoJiptQ/n1vjIIjw2uFTeF3cfniLqA3srytIJIdHxuLe0abVs4W6bn4LYQoj72RPKZFPbtWz/iizWNw18t0e4N3alFyEY7fMPc0UfgfXsxH/2JTlRV6GT6sKMxhv4gUAzAK/AVt5KutJTlwHMApMFVgIL3yDTtpRPCg6dGceowXfzIqqP/YWpmix9lqIEueScmyxR4Pt0qLN6f4a2GmsR/iqKfufQCZunwV14ySOWdn3PP6Ufz9Kk2gturyGAnpYTDOUT++UvLaB6kcKxe/B/JS1GdIickVrK/1CpFGDYw\u003d\u003d"
+          "nonce": "S/GCerKqJYw\u003d",
+          "signature": "XNQjTlCw/k1ckB3qGrCGxEMC0RRtD6ngK68Z5PeLti86pHYYGnpZqV/l6K33qWicnJG9Cb9H6HjJGMsdE2waPtiVUg4j/yXbheDdEiW+0WL2kwQ7sn/5o0MXWCdFOEtTV/mlBt5JijrbEU0DKa5d94chrxTJgUOA/JBI9V4xHQkb5DoXjLQ5q3+irNR28RIKvqjBM+nne3OxZj2dlp+uLpInzg89vgmf9WKM8lj2t3HC0D5T/zvjjkzTmNkVTFM/B5KrdYDPe/GAT7IkgqP3OrTwO/eTl86vQ3NhQ8uh8/tJfBgoLVf8CA5bYMPFGGO2uay42e6gb1e26y1hZgaqPw\u003d\u003d"
         }
       ]
     }
