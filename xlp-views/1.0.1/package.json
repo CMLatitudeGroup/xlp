@@ -1,0 +1,44 @@
+{
+  "name": "xlp-views",
+  "namespace": "CML",
+  "format": "1",
+  "version": "1.0.1",
+  "creator": "CMLatitude",
+  "summary": "XLP Common Components",
+  "detailedDescription": "eXtended Layer Platform",
+  "type": "code",
+  "requires": [
+    "xlp@1.0.1"
+  ],
+  "signatures": [
+    {
+      "name": "CMLatitude",
+      "uuid": "10851d89-2e70-47bd-ab59-02a1a6b8ae3e",
+      "created": "2017-06-07T15:16:35Z",
+      "algorithm": "SHA1withRSA",
+      "nonce": "OVVjGr5Et1g\u003d",
+      "signature": "MPG0KMd1t4oWuFqsoWtVHrmnksbhHAGzWSSCeB8dhO9OCiMcjmI3nI+OzZrV6xT0IMZsnkHttTl+0/Zrmb2cT3xu5r9ADQ+Hc0rQ7B+EZa++S+Eg8exCG45pJuRtOb4h4QNkrYGKuhK+6ReeCXZTv9/ZkW270Y7AgdPCk9u0OnZiDuNbDwi9pA2WaRv7kzrEyrOmKr2+giziOsuKuCPJeZSc2s751QjQKXp8fySbz5x+1sIwADj6gcVQNoaa5sOvsG0mldhPIyykVBiPzzYlbde6DAALdBqVS8o5WlkSiq6OV2RCEqaWgvbNjBnbFZwlHbLWSfsAlI+Ts0I/dl3oHw\u003d\u003d"
+    }
+  ],
+  "framework": "ext",
+  "toolkit": "classic",
+  "output": "${package.dir}/build",
+  "sass": {
+    "namespace": "CML",
+    "etc": [
+      "${package.dir}/sass/etc/all.scss"
+    ],
+    "var": [
+      "${package.dir}/sass/var"
+    ],
+    "src": [
+      "${package.dir}/sass/src"
+    ]
+  },
+  "classpath": [
+    "${package.dir}/src"
+  ],
+  "overrides": [
+    "${package.dir}/overrides"
+  ]
+}
